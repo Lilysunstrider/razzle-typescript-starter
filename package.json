@@ -22,7 +22,7 @@
     "react-helmet": "^5.2.1",
     "react-i18next": "^11.2.6",
     "react-router-dom": "^5.1.2",
-    "serialize-javascript": "^2.1.2"
+    "serialize-javascript": "^3.1.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.2",
